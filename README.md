@@ -3,13 +3,12 @@ Java | Swagger | Rest-Assured
 
 
 The testing framework for PetStore-service: https://petstore.swagger.io/
-Project contains Test classes for Pet and Store:
+
+Project contains test classes for Pet and Store:
 
 ### Language: Java
 
-### Tools Used:
-
-Used tools and libraries:
+### Tools and Libraries:
 
 * [jUnit5](https://mvnrepository.com/artifact/io.qameta.allure/allure-junit5)
 * [AssertJ](https://mvnrepository.com/artifact/org.assertj/assertj-core)
@@ -27,7 +26,7 @@ Used tools and libraries:
 For detailed information and to search for specific versions of the tools or updates,
 visit [Maven Central Repository](https://mvnrepository.com/)
 
-### To run tests use these command:
+### To run tests use these commands:
 
 For run tests use the command:
 
